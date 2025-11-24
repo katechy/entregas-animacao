@@ -6,7 +6,7 @@ from datetime import datetime, date
 # Configurações
 WEBHOOK_URL = os.getenv('DISCORD_WEBHOOK_URL')
 
-# LISTA DIRETA das suas entregas - EDITAVE AQUI! ✏️
+# LISTA DIRETA das suas entregas - EDITE AQUI! ✏️
 ENTREGAS = [
     {"disciplina": "Teorias da Criatividade", "atividade": "Atividades e prova", "data_entrega": "2025-12-01"},
     {"disciplina": "Análise de Cenários para Projetos", "atividade": "Atividades e prova", "data_entrega": "2025-12-10"},
