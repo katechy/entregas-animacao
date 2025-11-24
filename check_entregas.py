@@ -13,7 +13,7 @@ ENTREGAS = [
     {"disciplina": "História da Arte", "atividade": "Atividades e prova", "data_entrega": "2025-12-10"},
     {"disciplina": "Linguagem e História da Arte", "atividade": "Atividades e prova", "data_entrega": "2025-12-10"},
     {"disciplina": "Gestão e Inovação", "atividade": "Atividades e prova", "data_entrega": "2025-12-10"},
-    {"disciplina": "Roteiro e Narrativa", "atidade": "Entrega do GDD", "data_entrega": "2025-12-5"}
+    {"disciplina": "Roteiro e Narrativa", "atividade": "Entrega do GDD", "data_entrega": "2025-12-5"}
 ]
 
 def check_entregas():
