@@ -18,7 +18,6 @@ ENTREGAS = [
     {"disciplina": "Design Sustentável e Responsabilidade Social", "atividade": "Atividades e Prova", "data_entrega": "2026-06-01"},
     {"disciplina": "Estética e Linguagem Audiovisual", "atividade": "Atividades e Prova", "data_entrega": "2026-06-01"},
 ]
-]
 
 def check_entregas():
     mensagens = []
